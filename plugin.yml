@@ -1,0 +1,9 @@
+name: RankUP
+main: MulkiAqi192\RankUP\Main
+author: MulkiAqi192
+api: 3.12.0
+version: 1.0
+
+commands:
+  rankup:
+    description: "Upgrade you to a higher rank"
